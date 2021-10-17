@@ -12,7 +12,7 @@
 
 # Java Collection Framework
 
-> Java Collection Framework es como se conoce a la librería de clases contenedoras de Java que podemos encontrar en el paquete estándar java.util. Estas clases sirven para almacenar colecciones de objetos, como listas, conjuntos, mapas, …
+> Java Collection Framework es como se conoce a la librería de clases contenedoras de Java que podemos encontrar en el paquete estándar java.util. Estas clases sirven para almacenar colecciones de objetos, como listas, conjuntos, mapas,
 >Todas estas clases permiten guardar en ellas referencias a objetos (no podemos usarlas a priori con tipos primitivos como int o double). Por ejemplo:
   
 - // Lista de enteros. Puede haber enteros repetidos en la lista:
